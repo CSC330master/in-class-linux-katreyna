@@ -1,0 +1,16 @@
+linux commands used: 
+	sudo unminimized - unminimized the eversion of linux that we used
+	pwd - checks what your currernt directory is
+	mkdir - create a directory
+	cd - going into the directory
+	ls - shows the files in the directory
+	ltr - list files, sort by modification time (newest first), and in reverse order
+	cat - prints the standard output
+
+git commands used: 
+	git config - log into git using your credentials 
+	git clone - clones the github repository
+	git status - checks the status of your local repository
+	git add - adds a file to the list of files to be updated in the next commit
+	git commit - commits the changes
+	git push - pushes the changes in the local repository  to the github repo
